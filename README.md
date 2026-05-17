@@ -56,6 +56,6 @@ pip install tensorflow pandas numpy scikit-learn matplotlib seaborn
 python pertemuan7.py
 ```
 4. Tunggu proses pelatihan selesai (epoch 1 sampai 50 akan tampil di terminal).
-5. Setelah pelatihan selesai, jendela grafik *Training History* akan muncul — **tutup jendela tersebut** untuk melanjutkan.
-6. Jendela *Confusion Matrix* akan muncul berikutnya — **tutup juga** untuk melanjutkan.
+5. Setelah pelatihan selesai, jendela grafik *Training History* akan muncul. **Tutup jendela tersebut** untuk melanjutkan.
+6. Jendela *Confusion Matrix* akan muncul berikutnya. **Tutup juga** untuk melanjutkan.
 7. Program akan meminta input 4 nilai ukuran bunga (contoh: `5.1`, `3.5`, `1.4`, `0.2`). Masukkan satu per satu lalu tekan Enter untuk melihat hasil prediksi spesiesnya.
