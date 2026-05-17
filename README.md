@@ -1,6 +1,6 @@
 # Klasifikasi Spesies Bunga Iris Menggunakan Jaringan Syaraf Tiruan (JST)
 
-Repositori ini berisi implementasi Jaringan Syaraf Tiruan (Artificial Neural Network) menggunakan framework **TensorFlow** untuk mengklasifikasikan tiga spesies bunga Iris (Setosa, Versicolor, dan Virginica) berdasarkan dataset Iris klasik dari UCI Machine Learning Repository.
+Repositori ini berisi implementasi Jaringan Syaraf Tiruan (Artificial Neural Network) menggunakan framework **TensorFlow** dan **Keras** untuk mengklasifikasikan tiga spesies bunga Iris (Setosa, Versicolor, dan Virginica) berdasarkan dataset Iris klasik dari UCI Machine Learning Repository.
 
 ## Struktur File
 
